@@ -80,7 +80,7 @@ $db['default'] = array(
 	'password' => 'west2',
 	'database' => 'west2',
 	'dbdriver' => 'mysqli',
-	'dbprefix' => '',
+	'dbprefix' => 'CY_',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
 	'cache_on' => FALSE,
